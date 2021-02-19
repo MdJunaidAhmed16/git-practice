@@ -7,5 +7,6 @@ for(int i=0;i<100;i++){
 		printf(" * * * * * ");
 	}
 }
+printf("This is the new version so This print statement is being added:|");
 return 0;
 }
